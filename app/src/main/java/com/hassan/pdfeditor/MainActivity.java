@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
-import android.app.PrintManager;
+import android.print.PrintManager;
 import android.app.Notification;
 import android.content.ContentValues;
 import android.content.Intent;
